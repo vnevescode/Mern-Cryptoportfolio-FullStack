@@ -1,5 +1,10 @@
 # Mern-Cryptoportfolio-FullStack
 
+* Link Netlify project demo -- 
+* Link Heroku project ( Only backend API ) -- 
+
+
+
 # Project Description
 
 This is a MERN(Mongo,Express,React,Node) project that simulate a crypto currency portfolio app. In the project we can see the total amount in USD for all crypto coins the user have. It is possible too, add new ones, update values and delete, simulating a admin dashboard.
@@ -21,7 +26,7 @@ Or connect with a local MongoDb database.
 
 Another option could be only download the Front-End version of the entire project that use API link from Heroku from the backend part already deployed. 
 
-* Link here -> ""
+* Link here -> "https://github.com/vnevescode/Mern-Cryptoportfolio-Frontend"
   
 FrontEnd-Part
 To start the frontend run "npm install" and "npm start". 
