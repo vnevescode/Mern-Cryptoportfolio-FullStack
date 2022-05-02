@@ -3,7 +3,7 @@
 * Link Netlify project demo -- https://sweet-pastelito-edc069.netlify.app/
 * Link Heroku project ( Only backend API ) -- https://mern-ccurrency-portfolio.herokuapp.com/api/v1/crud/
 
-<img alt="Project Image" src="https://github.com/vnevescode/Mern-Cryptoportfolio-FullStack/blob/main/projectPicture.PNG" width="400" height="320" />
+<img alt="Project Image" src="https://github.com/vnevescode/Mern-Cryptoportfolio-FullStack/blob/main/projectPicture.PNG" width="1000" height="600" />
 
 
 
