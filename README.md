@@ -15,7 +15,7 @@ The project is divided into backend files and the frontend files. At the backend
 
 # How to Install and Run the Project
 
-Clone or Download de files. 
+Clone or Download the files. 
 
 BackEnd-Part
 To start the backend run "npm install" and "npm start". 
